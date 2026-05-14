@@ -72,7 +72,7 @@ A backend system that receives guest messages from multiple channels — **Whats
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/nistula-technical-assessment.git
+git clone https://github.com/uhmd410/nistula-technical-assessment.git
 cd nistula-technical-assessment
 ```
 
